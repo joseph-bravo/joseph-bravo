@@ -1,9 +1,9 @@
-<center>
-  <h1>Joseph Bravo</h1>
-  <h2>Full Stack Web Developer</h2>
-</center>
+<div align="center">
+  <h1><b>Joseph Bravo</b></h1>
+  <h4><i>Full Stack Web Developer</i></h4>
+</div>
 
-## 🧑‍💻 *~ About Me ~*
+## 🧑‍💻 *About Me*
 
 **Yo, Joseph here!** 👋
 
@@ -19,8 +19,10 @@ I'm super eager to learn about everything that is out there in the field! 📖
 
 #### My Cat (sleepy)...
 
+<img width="317" alt="image" src="https://user-images.githubusercontent.com/78003700/174394354-628ede7e-102e-42a8-a57a-d26207b1a758.png">
 
-## 📚 *~ The Stack ~*
+
+## 📚 *The Stack*
 
 ### 📑 *Languages*
 
@@ -42,6 +44,6 @@ I'm super eager to learn about everything that is out there in the field! 📖
 - Webpack, Babel, Parcel, Eleventy, Pug
 - VS Code, NPM, Docker (with Compose), Insomnia, Figma, Chrome Dev Tools (Using Edge!), Git, GitHub (Issues and Projects workflow), Slack
 
-## 📨 *~ Contact! ~*
+## 📨 *Contact Me!*
 
 - [LinkedIn](https://www.linkedin.com/in/joseph-bravo-dev/)
