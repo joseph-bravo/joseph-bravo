@@ -48,4 +48,8 @@ I'm super eager to learn about everything that is out there in the field! 📖
 
 ## 📨 *Contact Me!*
 
-- [LinkedIn](https://www.linkedin.com/in/joseph-bravo-dev/)
+#### Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/joseph-bravo-dev/) or my email, `arks.josephbravo@gmail.com`!
+
+---
+
+<img width="250" alt="Cat Dancing" src="https://c.tenor.com/Z5wTNShAZnsAAAAC/cat-dance.gif" />
