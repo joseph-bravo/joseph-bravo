@@ -48,7 +48,7 @@ I'm super eager to learn about everything that is out there in the field! 📖
 
 ## 📨 *Contact Me!*
 
-#### Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/joseph-bravo-dev/) or my email, `arks.josephbravo@gmail.com`!
+#### Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/joseph-bravo/) or my email, `arks.josephbravo@gmail.com`!
 
 ---
 
