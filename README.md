@@ -11,6 +11,8 @@ A Web Developer fresh from a bootcamp. I've been coding my whole life; turns out
 
 I'm super eager to learn about everything that is out there in the field! 📖
 
+#### Check out my projects in my *Pinned Repositories*! 📌
+
 ### 👀 *Interests*
 
 - 🎮 *Phantasy Star Online 2: New Genesis*, Rhythm Games and satisfying parries.
