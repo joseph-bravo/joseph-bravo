@@ -1,6 +1,7 @@
 <div align="center">
   <h1><b>Joseph Bravo</b></h1>
-  <h4><i>Full Stack Web Developer</i></h4>
+  <h3><i>Full Stack Web Developer</i></h3>
+  <h4><a href="https://github.com/joseph-bravo/joseph-bravo/blob/main/joseph-bravo-resume.pdf">📃 Check out my resume here! 📃</a></h4>
 </div>
 
 ## 🧑‍💻 *About Me*
